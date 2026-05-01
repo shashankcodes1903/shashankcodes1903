@@ -1,5 +1,7 @@
 ## 👋 About Me
-<img src="./Skills_Animation_Dark.gif" align="left" width="45%" />
+<img src="./Skills_Animation_Dark.gif" align="left" width="35%" />
+
+<div style="width: 50%;">
 
 ### 📘 Currently Learning
 - Data Structures & Algorithms  
@@ -10,6 +12,8 @@
 - Build impactful projects  
 - Improve problem-solving  
 - Become a full-stack developer  
+
+</div>
 
 <br clear="left"/>
 

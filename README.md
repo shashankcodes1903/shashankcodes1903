@@ -1,10 +1,11 @@
 # 💫 About Me:
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="./Skills_Animation_Dark.gif" width="90%" />
-    </td>
-    <td width="50%">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+
+  <div style="flex: 1; text-align: center;">
+    <img src="./Skills_Animation_Dark.gif" width="90%" />
+  </div>
+
+  <div style="flex: 1;">
 
 ### 📘 Currently Learning
 - Data Structures & Algorithms  
@@ -16,9 +17,9 @@
 - Improve problem-solving  
 - Become a full-stack developer  
 
-    </td>
-  </tr>
-</table>
+  </div>
+
+</div>
 
 
 ## 🌐 Socials:

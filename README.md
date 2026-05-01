@@ -1,11 +1,13 @@
 # 💫 About Me:
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="48%" align="center">
       <img src="./Skills_Animation_Dark.gif" width="90%" />
     </td>
-    <td width="5%"></td> <!-- spacer column -->
-    <td width="45%">
+
+    <td width="4%"></td> <!-- spacer (no border here) -->
+
+    <td width="48%">
 
 ### 📘 Currently Learning
 - Data Structures & Algorithms  

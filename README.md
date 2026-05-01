@@ -1,5 +1,24 @@
 # 💫 About Me:
-FULL STACK DEVELOPER | DSA ENTHUSIAST | STUDENT
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./Skills_Animation_Dark.gif" width="90%" />
+    </td>
+    <td width="50%">
+
+### 📘 Currently Learning
+- Data Structures & Algorithms  
+- Backend Development (Node.js, APIs)  
+- System Design  
+
+### 🎯 Goals
+- Build impactful projects  
+- Improve problem-solving  
+- Become a full-stack developer  
+
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:

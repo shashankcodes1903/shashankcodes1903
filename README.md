@@ -19,6 +19,6 @@ FULL STACK DEVELOPER | DSA ENTHUSIAST | STUDENT
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=shashankcodes1903&icon=0&color=7)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=shashankcodes1903&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -13,7 +13,7 @@ FULL STACK DEVELOPER | DSA ENTHUSIAST | STUDENT
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shashankcodes1903&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shashankcodes1903&theme=rose&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shashankcodes1903&theme=radical&no-frame=true&margin-w=6)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

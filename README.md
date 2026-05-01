@@ -1,14 +1,15 @@
 # 💫 About Me:
-<table style="width:100%; border:none;">
+<table>
   <tr>
-    <td width="50%" align="center" style="border:none; vertical-align:top;">
+    <td width="50%" align="center">
       <img src="./Skills_Animation_Dark.gif" width="90%" />
     </td>
-    <td width="50%" style="border:none; vertical-align:top;">
+    <td width="5%"></td> <!-- spacer column -->
+    <td width="45%">
 
 ### 📘 Currently Learning
 - Data Structures & Algorithms  
-- Backend Development (Node.js, APIs)  
+- Backend Development  
 - System Design  
 
 ### 🎯 Goals

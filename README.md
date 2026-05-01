@@ -1,5 +1,5 @@
 # 💫 About Me:
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center">
       <img src="./Skills_Animation_Dark.gif" width="90%" />

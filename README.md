@@ -1,10 +1,5 @@
 ## 👋 About Me
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./Skills_Animation_Dark.gif" width="90%" />
-    </td>
-    <td width="50%">
+<img src="./Skills_Animation_Dark.gif" align="left" width="45%" />
 
 ### 📘 Currently Learning
 - Data Structures & Algorithms  
@@ -16,9 +11,7 @@
 - Improve problem-solving  
 - Become a full-stack developer  
 
-    </td>
-  </tr>
-</table>
+<br clear="left"/>
 
 
 ## 🌐 Socials:

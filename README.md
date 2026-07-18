@@ -33,10 +33,6 @@
   />
 </p>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shashankcodes1903&theme=radical&no-frame=true&margin-w=6)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
